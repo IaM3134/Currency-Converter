@@ -1,5 +1,5 @@
 # Currency Converter
-This is a simple and interactive Currency Converter application built using HTML, CSS, and JavaScript. The application fetches real-time currency exchange rates using an API, allowing users to convert between different currencies easily.
+This is a simple and interactive Currency Converter application built using HTML, CSS, and JavaScript. The application fetches currency exchange rates using an API, allowing users to convert between different currencies easily.
 
 # Features
 - Real-Time Exchange Rates: The application uses an external API to fetch the exchange rates for various currencies.
